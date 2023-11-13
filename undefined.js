@@ -39,7 +39,12 @@ console.log(myArray);
 
 
 
-// 6:
+// 6:deleting an element inside the array
 const array2 = [23, 47, 57, 58, 48, 83];
-delete array2[3];
+delete array2[3]; // you should not use it but you have to 
 console.log(array2);
+
+// 7: if return has nothing on the right will return undefined 
+
+
+// 8:set a value directly to undefined
